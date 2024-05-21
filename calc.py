@@ -30,7 +30,7 @@ def coseno(a):
 def tangente(a):
     return math.tan(math.radians(a))
 
-print("Calculadora avanzada")
+print("Calculadora")
 print("1. Suma")
 print("2. Resta")
 print("3. Multiplicación")
